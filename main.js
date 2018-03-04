@@ -18,8 +18,8 @@ const {app, BrowserWindow} = require('electron')
       slashes: true
     }))
 
-    // Open the DevTools.
-    win.webContents.openDevTools()
+    // Open the DevTools. (currently disabled mjm)
+    // win.webContents.openDevTools()
 
     // Emitted when the window is closed.
     win.on('closed', () => {
