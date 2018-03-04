@@ -13,12 +13,12 @@ const {app, BrowserWindow} = require('electron')
 
     // and load the index.html of the app.
     win.loadURL(url.format({
-      pathname: path.join(__dirname, 'app/index.html'),
+      pathname: path.join(__dirname, 'index.html'),
       protocol: 'file:',
       slashes: true
     }))
 
-    // Open the DevTools. (currently disabled mjm)
+    // Open the DevTools. (disabled because it was annoying me. i'll turn on later)
     // win.webContents.openDevTools()
 
     // Emitted when the window is closed.
