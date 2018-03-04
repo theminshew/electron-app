@@ -1,2 +1,2 @@
 # electron-app
-Electron app i'm experimenting with
+Building out an electron app just to do something different. 
