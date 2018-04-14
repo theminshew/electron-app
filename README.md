@@ -1,2 +1,3 @@
 # electron-app
-Building out an electron app just to do something different. 
+Building Electron App,
+Still working on getting the contributors up and running/coding.  

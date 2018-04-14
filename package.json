@@ -5,5 +5,5 @@
     "scripts": {
       "start": "electron"
     },
-    "author":"Michael Minshew"
+    "author":"Michael Minshew, Rudy Bauder, Christopher Minshew"
   }
